@@ -5,25 +5,6 @@
   <em>Daffodil International University (DIU), Dhaka, Bangladesh</em>
 </p>
 
-<p align="center">
-  <a href="https://banrayndox.github.io/"><img src="https://img.shields.io/badge/Personal%20Wiki-banrayndox.github.io-0645ad?style=flat-square&logo=wikipedia" alt="Wiki"></a>
-  <a href="https://codeforces.com/profile/airayndox"><img src="https://img.shields.io/badge/Codeforces-airayndox-1f8acb?style=flat-square&logo=codeforces" alt="Codeforces"></a>
-  <a href="https://leetcode.com/u/banrayndox/"><img src="https://img.shields.io/badge/LeetCode-banrayndox-FFA116?style=flat-square&logo=leetcode" alt="LeetCode"></a>
-  <a href="https://linkedin.com/in/banrayndox"><img src="https://img.shields.io/badge/LinkedIn-banrayndox-0077b5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:banrayndox@gmail.com"><img src="https://img.shields.io/badge/Email-banrayndox%40gmail.com-ea4335?style=flat-square&logo=gmail" alt="Email"></a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-Hi! I'm **Rakib B** (known online as **Rayndox** / **banrayndox**). I'm an undergraduate CSE student passionate about algorithmic problem solving, machine learning engineering, and building resilient full-stack systems.
-
-* 🌐 **Personal Knowledge Base & Portfolio:** [banrayndox.github.io](https://banrayndox.github.io/)
-* 🏆 **Competitive Programming:** Active contestant on [Codeforces (@airayndox)](https://codeforces.com/profile/airayndox) & [LeetCode (@banrayndox)](https://leetcode.com/u/banrayndox/).
-* 🔬 **Research & Technical Interests:** Optimization algorithms, computational complexity, retrieval-augmented generation (RAG), and autonomous reinforcement learning agents.
-
----
 
 ### 🧠 Featured Repository: [Machine Learning & AI Curriculum (`ml_ai`)](https://github.com/banrayndox/ml_ai)
 
@@ -46,20 +27,5 @@ A comprehensive, self-paced, open-source learning path and proof of competence s
 
 * 🎓 **[Smart Section Management (SSM)](https://github.com/banrayndox/ssm-frontend):** University course section coordination and conflict resolution platform.  
   * **Live Application:** [diussm.vercel.app](https://diussm.vercel.app) | **Backend:** [banrayndox/ssm-backend](https://github.com/banrayndox/ssm-backend)
-* 🤖 **[DIU Copilot](https://github.com/banrayndox/DIU_COPILOT_frontend):** AI campus assistant for Daffodil International University powered by LangGraph, FastAPI, and Socket.io.  
-  * **Backend Gateway:** [banrayndox/DIU_COPILOT_backend](https://github.com/banrayndox/DIU_COPILOT_backend) | **AI Agent:** [banrayndox/DIU_COPILOT_agent](https://github.com/banrayndox/DIU_COPILOT_agent)
 
----
 
-### 🧰 Tech Stack & Tools
-
-* **Languages:** C++, Python, JavaScript (ES6+), C
-* **Machine Learning & AI:** PyTorch, Scikit-Learn, LangChain, LangGraph, ChromaDB, Hugging Face Transformers, Pandas, NumPy
-* **Web & Backend:** React 19, Node.js, Express.js, FastAPI, Tailwind CSS, Socket.io, RESTful APIs
-* **Databases & DevOps:** MongoDB, Git/GitHub, Docker, Vercel
-
----
-
-<p align="center">
-  <em>"First, solve the problem. Then, write the code."</em>
-</p>
