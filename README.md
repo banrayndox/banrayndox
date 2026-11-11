@@ -12,9 +12,3 @@ A comprehensive, self-paced, open-source learning path and proof of competence s
 
 ---
 
-### 🛠️ Other Flagship Systems
-
-* 🎓 **[Smart Section Management (SSM)](https://github.com/banrayndox/ssm-frontend):** University course section coordination and conflict resolution platform.  
-  * **Live Application:** [diussm.vercel.app](https://diussm.vercel.app) | **Backend:** [banrayndox/ssm-backend](https://github.com/banrayndox/ssm-backend)
-
-
