@@ -1,7 +1,7 @@
 <h1 align="center">Welcome from Rayndox.</h1>
 
 <p align="center">
-  <strong>Computer Science & Engineering Student | Competitive Programmer | AI & Full-Stack Systems Engineer</strong><br>
+  <strong>Computer Science & Engineering Student | Competitive Programmer | AI & Full-Stack Software Engineer</strong><br>
   <em>Daffodil International University (DIU), Dhaka, Bangladesh</em>
 </p>
 
